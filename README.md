@@ -4,13 +4,13 @@ A comprehensive Python tool for identifying the technology stack of any website 
 
 ## **Table of Contents**
 
-1. [Project Goals])
-2. [How It Works]
-3. [Directory Structure]
-4. [Setup and Installation]
-5. [Usage]
-6. [For Developers]
-7. [Troubleshooting]
+1. Project Goals
+2. How It Works
+3. Directory Structure
+4. Setup and Installation
+5. Usage
+6. For Developers
+7. Troubleshooting
 
 ## **1\. Project Goals**
 
